@@ -24,12 +24,14 @@ const ItemListContainer = () => {
                     case 'Electronica':
                         aux=4;
                     break;
+                    default:
+                        console.log('esta mal');
                 }
                 fetch('../json/productos.json')
                 .then(response => response.json())
                 .then(items => {                    
                     const products = items.filter(prod => prod.idCategoria ===aux)                
-                    const productsList = Itemlist({products})
+                    const productsList =  <Itemlist products={products} plantilla={'item'}/>
                     setProductos(productsList)               
                 })
             }        
@@ -37,7 +39,7 @@ const ItemListContainer = () => {
                 fetch('./json/productos.json')
                 .then(response => response.json())
                 .then(products => {                                
-                    const productsList = Itemlist({products})
+                    const productsList = <Itemlist products={products} plantilla={'item'}/>
                     setProductos(productsList)               
                 })
             }

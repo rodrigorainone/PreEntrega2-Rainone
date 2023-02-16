@@ -1,10 +1,10 @@
-#tuky{
+.iconCar{
     font-size: 25px;
     margin-right: 5px;    
     color:rgba(255, 255, 255, 0.712);
 }
 
-#tuky:hover{    
+.iconCar:hover{    
     color:white;
 }
 
@@ -33,4 +33,13 @@ img {
 .itemDetail{
     max-width: 540px;
     margin-top: 20px;  
+}
+
+.cartContainer {
+    margin-top: 3%;
+    margin-left: 26.5%;
+}
+
+.divButton{
+    margin:4px;
 }

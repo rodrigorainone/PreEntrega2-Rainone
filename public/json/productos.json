@@ -2,122 +2,122 @@
     {
         "id": 1,
         "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "Lenovo",
-        "modelo": "Y510P",
-        "precio": 60000,
-        "stock": 30,
-        "img": "notebook-lenovo.jpg"
+        "nombre": "Fiesta Kinetic",
+        "marca": "Ford",
+        "modelo": "SSE",
+        "precio": 6000000,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Fiesta.jpg?alt=media&token=f0031a0c-544f-472f-ae3d-eae4194d6fa7"
     },
     {
         "id": 2,
         "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Xiomi",
-        "modelo": "Mi-9",
-        "precio": 35000,
+        "nombre": "Tracker",
+        "marca": "Chevrolet",
+        "modelo": "Lt",
+        "precio": 7100000,
         "stock": 20,
-        "img": "xiaomi-mi-9.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Tracker.jpg?alt=media&token=46544cab-08dc-4144-aa19-d469f21da559"
     },
     {
         "id": 3,
         "idCategoria": 3,
-        "nombre": "Smart Tv",
-        "marca": "Novatech",
-        "modelo": "50D1U",
-        "precio": 57000,
+        "nombre": "Alaskan",
+        "marca": "Renaut",
+        "modelo": "Emotion",
+        "precio": 12000000,
         "stock": 15,
-        "img": "smart-tv-novatech.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Alaskan.jpg?alt=media&token=6f69f3ec-52cf-412f-8353-c316ce43a3c4"
     },
     {
         "id": 4,
         "idCategoria": 4,
-        "nombre": "Camara",
-        "marca": "iQual",
-        "modelo": "C40",
-        "precio": 8000,
+        "nombre": "kangoo",
+        "marca": "Renaut",
+        "modelo": "Emotion",
+        "precio": 5000000,
         "stock": 30,
-        "img": "camara-iqual.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Kangoo.jpg?alt=media&token=05f4f146-57f2-421a-a7b8-6bfe9a5b0d07"
     },
     {
         "id": 5,
         "idCategoria": 4,
-        "nombre": "Mouse",
-        "marca": "Logitech",
-        "modelo": "G502",
-        "precio": 1400,
+        "nombre": "Berlingo",
+        "marca": "Citroen",
+        "modelo": "MultiSpace",
+        "precio": 7300000,
         "stock": 7,
-        "img": "mouse-logitech.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Berlingo.jpg?alt=media&token=11082d5d-955b-4c87-bf38-994ecfd610ad"
     },
     {
         "id": 6,
         "idCategoria": 4,
-        "nombre": "Auriculares",
-        "marca": "Motorola",
-        "modelo": "Pulse",
-        "precio": 4000,
+        "nombre": "Partner",
+        "marca": "Peugeot",
+        "modelo": "Hdi",
+        "precio": 8000000,
         "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Partner.jpg?alt=media&token=8525dd46-ebc1-43be-b401-55832ec75ce8"
     },
     {
         "id": 7,
         "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Apple",
-        "modelo": "Iphone X Silver",
-        "precio": 250000,
+        "nombre": "Pulse",
+        "marca": "Fiat",
+        "modelo": "Firefly",
+        "precio": 6400000,
         "stock": 10,
-        "img": "iphone-x.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Pulse.jpg?alt=media&token=50d63974-43a6-463c-aae0-f0e470fe90e2"
     },
     {
         "id": 8,
         "idCategoria": 3,
-        "nombre": "Apple TV",
-        "marca": "Apple ",
-        "modelo": "32 Gb",
-        "precio": 45000,
+        "nombre": "Toro",
+        "marca": "Fiat",
+        "modelo": "Volcano",
+        "precio": 10000000,
         "stock": 30,
-        "img": "apple-tv.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Toro.jpg?alt=media&token=cf84d333-60e0-4f73-968e-2f0a8f625a54"
     },
     {
         "id": 9,
         "idCategoria": 4,
-        "nombre": "Parlante",
-        "marca": "Kalley",
-        "modelo": "SPK200",
-        "precio": 34000,
+        "nombre": "Fiorino",
+        "marca": "Fiat",
+        "modelo": "Fire Evo",
+        "precio": 5500000,
         "stock": 21,
-        "img": "parlante-kalley.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Fiorino.jpg?alt=media&token=42d4c7db-5ef1-4658-91fc-186494ab53a4"
     },
     {
         "id": 10,
         "idCategoria": 1,
-        "nombre": "Mac Air",
-        "marca": "Apple",
-        "modelo": "M1 2020",
-        "precio": 13000,
+        "nombre": "Onix",
+        "marca": "Chevrolet",
+        "modelo": "Ls",
+        "precio": 5500000,
         "stock": 25,
-        "img": "mac-air.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Onix.jpg?alt=media&token=6e741186-1e1e-4f17-a32f-3625416a8e12"
     },
     {
         "id": 11,
         "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Samsung",
-        "modelo": "S20",
-        "precio": 85000,
+        "nombre": "Eco Sport",
+        "marca": "Ford",
+        "modelo": "Titanium",
+        "precio": 8500000,
         "stock": 30,
-        "img": "samsung-s20.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/EcoSport.jpg?alt=media&token=85de2065-f74b-4c19-bb55-ca8f3069e3f2"
     },
     {
         "id": 12,
         "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "HP",
-        "modelo": "Pavilion 15",
-        "precio": 120000,
+        "nombre": "Cronos",
+        "marca": "Fiat",
+        "modelo": "Drive",
+        "precio": 4000000,
         "stock": 20,
-        "img": "hp-pavilion.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-coder-736f0.appspot.com/o/Cronos.jpg?alt=media&token=5fa6cccc-2755-4fe6-b478-96fb59c6f326"
     }
 
 ]
